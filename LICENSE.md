@@ -1,4 +1,4 @@
-# 
+# high-frequency MEV arbitrage bot | new-token-detection + MEV-detection offers the most advanced MEV arbitrage bot, with new-token-detection and MEV-detection. Ideal for
 
 
 
